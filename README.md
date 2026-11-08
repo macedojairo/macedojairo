@@ -1,6 +1,6 @@
 ## Hi, I'm Jairo 👋
 
-**Economist who codes.** I like hard questions with messy data behind them, and I spend most of my time figuring out what actually *causes* what.
+Economist and data scientist working where **finance**, **growth** and **AI** meet.
 
 <a href="https://www.linkedin.com/in/jairomacedo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
@@ -8,14 +8,15 @@
 
 ### 🧭 What I'm into
 
-- 🔍 **Causal inference.** Correlation is cheap. I care about the counterfactual: DiD, synthetic control, RDD, IV, and whatever the data allows.
-- 🛠️ **Data that scales.** SQL, Athena and Polars on tables too big to open in Excel, built into pipelines that someone else can rerun.
+- 🔍 **Causal inference.** Correlation is ### 🧭 What I'm into
+
 - 📈 **Finance.** Markets, investment products and how information turns into prices.
-- 🗣️ **Making numbers useful.** An estimate only matters when it changes a decision.
+- 🚀 **Growth.** What actually moves users, products and revenue, and how to measure it without fooling yourself.
+- 🤖 **AI.** Building with LLMs and machine learning to automate analysis and make data workflows smarter.
+- 🛠️ **Data at scale.** SQL, Athena and Polars on big tables, in pipelines someone else can rerun.
+- 🔍 **Econometrics.** The toolkit that separates what works from what just correlates.
 
-### ⚡ Quick facts
-
-- 🏦 Senior Business Analytics at **Itaú Unibanco**
+banco**
 - 🎓 PhD candidate in Economics at **UFPE**
 
 ### 🧰 Tools I reach for
