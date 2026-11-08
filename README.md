@@ -12,7 +12,7 @@ Economist and data scientist working where **finance**, **growth** and **AI** me
 
 - 📈 **Finance.** Markets, investment products and how information turns into prices.
 - 🚀 **Growth.** What actually moves users, products and revenue, and how to measure it without fooling yourself.
-- 🤖 **AI.** Building with LLMs and machine learning to automate analysis and make data workflows smarter.
+- 🤖 **AI.** How AI is reshaping productivity, work and finance, and how to measure its real economic impact.
 - 🛠️ **Data at scale.** SQL, Athena and Polars on big tables, in pipelines someone else can rerun.
 - 🔍 **Econometrics.** The toolkit that separates what works from what just correlates.
 
