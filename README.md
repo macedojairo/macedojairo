@@ -1,58 +1,52 @@
-<h1 align="left">Jairo Macedo</h1>
+## Hi, I'm Jairo 👋
 
-<p align="left">
-  <b>Economist</b> · PhD Candidate in Economics (PIMES/UFPE) · Senior Business Analytics at Itaú Unibanco
-</p>
+**Economist who codes.** I like hard questions with messy data behind them, and I spend most of my time figuring out what actually *causes* what.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/macedojairo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://linktr.ee/macedojairo"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white" alt="Linktree"></a>
-  <img src="https://img.shields.io/badge/Recife%20%7C%20S%C3%A3o%20Paulo-Brazil-2E7D32?style=flat-square" alt="Location">
-</p>
+<a href="https://www.linkedin.com/in/jairomacedo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ---
 
-### About
+### 🧭 What I'm into
 
-I work at the intersection of **financial economics** and **applied data science**. My academic research studies how market frictions shape the information content of prices and, through it, the allocation of capital. On the industry side, I build analytics for investment products at Itaú Unibanco, and I contribute to causal impact evaluations of public credit programs in partnership with BNDES.
+- 🔍 **Causal inference.** Correlation is cheap. I care about the counterfactual: DiD, synthetic control, RDD, IV, and whatever the data allows.
+- 🛠️ **Data that scales.** SQL, Athena and Polars on tables too big to open in Excel, built into pipelines that someone else can rerun.
+- 📈 **Finance.** Markets, investment products and how information turns into prices.
+- 🗣️ **Making numbers useful.** An estimate only matters when it changes a decision.
 
-### Research
+### ⚡ Quick facts
 
-- **Distorting Signals: The Role of Short-Selling in Capital Allocation Efficiency**
-  How short-selling constraints affect price informativeness and the efficiency of corporate investment.
-- **Impact evaluation of public credit policy** (GAPPE/UFPE and BNDES)
-  Causal evaluation of credit programs, including climate finance and renewable energy generation.
+- 🏦 Senior Business Analytics at **Itaú Unibanco**
+- 🎓 PhD candidate in Economics at **UFPE**
+- ✈️ Splitting my weeks between São Paulo and Recife
+- 💬 Ask me about causal inference, data pipelines or why most dashboards lie a little
 
-**Interests:** Financial Economics · Corporate Finance · Capital Markets · Applied Econometrics · Causal Inference · Industrial Organization · Public Policy Evaluation
-
-### Industry
-
-- **Itaú Unibanco**, Investment Products community: business analytics, product KPIs, data pipelines and dashboards on large-scale financial data.
-
-### Toolkit
+### 🧰 Tools I reach for
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" alt="Polars">
-  <img src="https://img.shields.io/badge/AWS%20Athena-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Athena">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Athena-8C4FFF?style=flat-square&logo=amazonwebservices&logoColor=white" alt="Athena">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
 </p>
 
-**Methods:** Difference-in-Differences (staggered and continuous treatment) · Synthetic Control · Regression Discontinuity · IV · Panel Data · Matching and Reweighting
-
-### GitHub Activity
+### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=macedojairo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&hide_rank=true" height="150" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=macedojairo&layout=compact&langs_count=6&hide_border=true&theme=default" height="150" alt="Top languages">
+  <img src="./profile-summary-card-output/github/3-stats.svg" height="160" alt="GitHub stats">
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" height="160" alt="Most commit language">
+</p>
+
+<p align="left">
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Contributions">
 </p>
 
 ---
 
-<p align="left"><sub>Open to research collaborations in empirical finance and causal inference.</sub></p>
+<sub>Always happy to talk data, causality and good coffee ☕</sub>
