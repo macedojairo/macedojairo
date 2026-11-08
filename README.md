@@ -1,6 +1,6 @@
 ## Hi, I'm Jairo 👋
 
-**Economist who codes.** I like hard questions with messy data behind them, and I spend most of my time figuring out what actually *causes* what.
+Economist and data scientist working where **finance**, **growth** and **AI** meet.
 
 <a href="https://www.linkedin.com/in/jairomacedo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
@@ -8,17 +8,16 @@
 
 ### 🧭 What I'm into
 
-- 🔍 **Causal inference.** Correlation is cheap. I care about the counterfactual: DiD, synthetic control, RDD, IV, and whatever the data allows.
-- 🛠️ **Data that scales.** SQL, Athena and Polars on tables too big to open in Excel, built into pipelines that someone else can rerun.
+- 🔍 **Causal inference.** Correlation is ### 🧭 What I'm into
+
 - 📈 **Finance.** Markets, investment products and how information turns into prices.
-- 🗣️ **Making numbers useful.** An estimate only matters when it changes a decision.
+- 🚀 **Growth.** What actually moves users, products and revenue, and how to measure it without fooling yourself.
+- 🤖 **AI.** How AI is reshaping productivity, work and finance, and how to measure its real economic impact.
+- 🛠️ **Data at scale.** SQL, Athena and Polars on big tables, in pipelines someone else can rerun.
+- 🔍 **Econometrics.** The toolkit that separates what works from what just correlates.
 
-### ⚡ Quick facts
-
-- 🏦 Senior Business Analytics at **Itaú Unibanco**
+banco**
 - 🎓 PhD candidate in Economics at **UFPE**
-- ✈️ Splitting my weeks between São Paulo and Recife
-- 💬 Ask me about causal inference, data pipelines or why most dashboards lie a little
 
 ### 🧰 Tools I reach for
 
@@ -39,12 +38,21 @@
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="./profile-summary-card-output/github/3-stats.svg" height="160" alt="GitHub stats">
-  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" height="160" alt="Most commit language">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+    <img src="./profile-summary-card-output/github/3-stats.svg" height="160" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img src="./profile-summary-card-output/github/2-most-commit-language.svg" height="160" alt="Most commit language">
+  </picture>
 </p>
 
 <p align="left">
-  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Contributions">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
+    <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Contributions">
+  </picture>
 </p>
 
 ---
