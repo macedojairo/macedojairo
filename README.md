@@ -17,8 +17,6 @@
 
 - 🏦 Senior Business Analytics at **Itaú Unibanco**
 - 🎓 PhD candidate in Economics at **UFPE**
-- ✈️ Splitting my weeks between São Paulo and Recife
-- 💬 Ask me about causal inference, data pipelines or why most dashboards lie a little
 
 ### 🧰 Tools I reach for
 
