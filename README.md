@@ -8,15 +8,15 @@ Economist and data scientist working where **finance**, **growth** and **AI** me
 
 ### 🧭 What I'm into
 
-- 🔍 **Causal inference.** Correlation is ### 🧭 What I'm into
-
 - 📈 **Finance.** Markets, investment products and how information turns into prices.
 - 🚀 **Growth.** What actually moves users, products and revenue, and how to measure it without fooling yourself.
 - 🤖 **AI.** How AI is reshaping productivity, work and finance, and how to measure its real economic impact.
 - 🛠️ **Data at scale.** SQL, Athena and Polars on big tables, in pipelines someone else can rerun.
 - 🔍 **Econometrics.** The toolkit that separates what works from what just correlates.
 
-banco**
+### ⚡ Quick facts
+
+- 🏦 Senior Business Analytics at **Itaú Unibanco**
 - 🎓 PhD candidate in Economics at **UFPE**
 
 ### 🧰 Tools I reach for
@@ -37,23 +37,10 @@ banco**
 
 ### 📊 GitHub Activity
 
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
-    <img src="./profile-summary-card-output/github/3-stats.svg" height="160" alt="GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
-    <img src="./profile-summary-card-output/github/2-most-commit-language.svg" height="160" alt="Most commit language">
-  </picture>
-</p>
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
-    <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Contributions">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/macedojairo/macedojairo/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/macedojairo/macedojairo/output/github-snake.svg" alt="Contribution snake">
+</picture>
 
 ---
 
