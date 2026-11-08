@@ -39,12 +39,21 @@
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="./profile-summary-card-output/github/3-stats.svg" height="160" alt="GitHub stats">
-  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" height="160" alt="Most commit language">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+    <img src="./profile-summary-card-output/github/3-stats.svg" height="160" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img src="./profile-summary-card-output/github/2-most-commit-language.svg" height="160" alt="Most commit language">
+  </picture>
 </p>
 
 <p align="left">
-  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Contributions">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
+    <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Contributions">
+  </picture>
 </p>
 
 ---
