@@ -1,62 +1,58 @@
-<h2 align="left">Hi 👋! I'm Jairo Macedo and I'm a Brazilian economist</h2>
+<h1 align="left">Jairo Macedo</h1>
 
-####
+<p align="left">
+  <b>Economist</b> · PhD Candidate in Economics (PIMES/UFPE) · Senior Business Analytics at Itaú Unibanco
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=macedojairo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=macedojairo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/macedojairo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linktr.ee/macedojairo"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white" alt="Linktree"></a>
+  <img src="https://img.shields.io/badge/Recife%20%7C%20S%C3%A3o%20Paulo-Brazil-2E7D32?style=flat-square" alt="Location">
+</p>
 
-###
+---
 
-<img align="right" height="200" src="https://i.imgflip.com/9ryuzn.jpg"  />
+### About
 
-###
+I work at the intersection of **financial economics** and **applied data science**. My academic research studies how market frictions shape the information content of prices and, through it, the allocation of capital. On the industry side, I build analytics for investment products at Itaú Unibanco, and I contribute to causal impact evaluations of public credit programs in partnership with BNDES.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-</div>
+### Research
 
-###
+- **Distorting Signals: The Role of Short-Selling in Capital Allocation Efficiency**
+  How short-selling constraints affect price informativeness and the efficiency of corporate investment.
+- **Impact evaluation of public credit policy** (GAPPE/UFPE and BNDES)
+  Causal evaluation of credit programs, including climate finance and renewable energy generation.
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="47" height="35" alt="linktree logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="47" height="35" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-</div>
+**Interests:** Financial Economics · Corporate Finance · Capital Markets · Applied Econometrics · Causal Inference · Industrial Organization · Public Policy Evaluation
 
-###
+### Industry
 
-<br clear="both">
+- **Itaú Unibanco**, Investment Products community: business analytics, product KPIs, data pipelines and dashboards on large-scale financial data.
 
-###
+### Toolkit
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" alt="Polars">
+  <img src="https://img.shields.io/badge/AWS%20Athena-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Athena">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+**Methods:** Difference-in-Differences (staggered and continuous treatment) · Synthetic Control · Regression Discontinuity · IV · Panel Data · Matching and Reweighting
+
+### GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=macedojairo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&hide_rank=true" height="150" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=macedojairo&layout=compact&langs_count=6&hide_border=true&theme=default" height="150" alt="Top languages">
+</p>
+
+---
+
+<p align="left"><sub>Open to research collaborations in empirical finance and causal inference.</sub></p>
